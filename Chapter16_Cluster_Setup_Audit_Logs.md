@@ -1,4 +1,4 @@
-# Chapter 14: Cluster Setup - Audit Logs
+# Chapter 16: Cluster Setup - Audit Logs
 
 ## Introduction
 

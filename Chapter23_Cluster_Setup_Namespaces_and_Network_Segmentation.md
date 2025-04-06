@@ -1,4 +1,4 @@
-# Chapter 17: Cluster Setup - Namespaces and Network Segmentation
+# Chapter 23: Cluster Setup - Namespaces and Network Segmentation
 
 ## Introduction
 

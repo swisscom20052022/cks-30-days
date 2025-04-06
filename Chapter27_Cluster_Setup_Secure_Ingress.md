@@ -1,4 +1,4 @@
-# Chapter 19: Cluster Setup - Secure Ingress
+# Chapter 27: Cluster Setup - Secure Ingress
 
 ## Introduction
 

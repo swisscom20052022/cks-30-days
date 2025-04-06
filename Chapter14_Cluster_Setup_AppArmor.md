@@ -1,4 +1,4 @@
-# Chapter 13: Cluster Setup - AppArmor
+# Chapter 14: Cluster Setup - AppArmor
 
 ## Introduction
 

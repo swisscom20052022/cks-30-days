@@ -1,4 +1,4 @@
-# Chapter 16: Cluster Setup - Resource Quotas and Limits
+# Chapter 21: Cluster Setup - Resource Quotas and Limits
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Chapter 12: Cluster Setup - etcd Backup and Restore
+# Chapter 13: Cluster Setup - etcd Backup and Restore
 
 ## Introduction
 

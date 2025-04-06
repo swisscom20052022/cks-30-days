@@ -1,4 +1,4 @@
-# Chapter 18: Cluster Setup - Disaster Recovery
+# Chapter 24: Cluster Setup - Disaster Recovery
 
 ## Introduction
 

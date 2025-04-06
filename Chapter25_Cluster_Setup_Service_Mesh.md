@@ -1,4 +1,4 @@
-# Chapter 18: Cluster Setup - Service Mesh
+# Chapter 25: Cluster Setup - Service Mesh
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Chapter 17: Cluster Setup - Auditing and Logging
+# Chapter 22: Cluster Setup - Auditing and Logging
 
 ## Introduction
 

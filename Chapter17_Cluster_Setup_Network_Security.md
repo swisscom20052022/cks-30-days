@@ -1,4 +1,4 @@
-# Chapter 14: Cluster Setup - Network Security
+# Chapter 17: Cluster Setup - Network Security
 
 ## Introduction
 

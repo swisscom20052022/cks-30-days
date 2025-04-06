@@ -1,4 +1,4 @@
-# Chapter 20: Cluster Setup - Security Best Practices
+# Chapter 29: Cluster Setup - Security Best Practices
 
 ## Introduction
 

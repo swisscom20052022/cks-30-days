@@ -1,4 +1,4 @@
-# Chapter 15: Cluster Setup - Secrets Management
+# Chapter 19: Cluster Setup - Secrets Management
 
 ## Introduction
 

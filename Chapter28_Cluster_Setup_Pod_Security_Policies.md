@@ -1,4 +1,4 @@
-# Chapter 20: Cluster Setup - Pod Security Policies
+# Chapter 28: Cluster Setup - Pod Security Policies
 
 ## Introduction
 

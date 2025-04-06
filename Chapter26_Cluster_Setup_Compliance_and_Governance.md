@@ -1,4 +1,4 @@
-# Chapter 19: Cluster Setup - Compliance and Governance
+# Chapter 26: Cluster Setup - Compliance and Governance
 
 ## Introduction
 

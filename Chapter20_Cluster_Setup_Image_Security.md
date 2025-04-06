@@ -1,4 +1,4 @@
-# Chapter 16: Cluster Setup - Image Security
+# Chapter 20: Cluster Setup - Image Security
 
 ## Introduction
 

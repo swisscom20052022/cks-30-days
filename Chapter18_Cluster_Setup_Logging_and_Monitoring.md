@@ -1,4 +1,4 @@
-# Chapter 13: Cluster Setup - Logging and Monitoring
+# Chapter 18: Cluster Setup - Logging and Monitoring
 
 ## Introduction
 
